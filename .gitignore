@@ -3,4 +3,5 @@
 # is used to add comments to a .gitignore file
 HIDDEN_BY_GITIGNORE
 LICENSE 
+mypasswords.py
 git config --global core.excludesfile ~/.gitignore_global
